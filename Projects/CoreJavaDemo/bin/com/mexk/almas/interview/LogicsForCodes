@@ -1,0 +1,11 @@
+	FIRST NON REPEATED CHARACTER IN A STRING
+
+As we know a non repeated character occurs only once in the string , so if we store the number of times
+ each alphabet appears in the string , it would help us identifying which characters are non repeated characters in the string .
+ So we need to scan the whole string and determine the final counts of each character . Now scan the final values of each character in 
+ the string , the first character in the string with final count 1 is the first non repeated character in the string .
+ 	////////////////////////////////////////
+ 	
+ 	
+ 
+ 

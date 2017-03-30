@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C/DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>JavaScript Demo</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" >
+</script>
+<script>
+	$(document).ready(function() {
+		$("#hide").click(function() {
+			$("p").hide();
+		});
+	});
+	$(document).ready(function() {
+		$("#show").click(function() {
+			$("p").show();
+		});
+	});
+</script>
+
+<style type="text/css">
+body{
+	background-color: blue;
+}
+p{
+	color: orange;
+	background-color: black;
+}
+</style>
+
+</head>
+<body>
+<p> loriom ipsom. if you click "Hide" button disappear, "Show" button reappear</p>
+
+<button id="hide"> Hide </button>
+<button id="show"> Show </button>
+</body>
+</html>

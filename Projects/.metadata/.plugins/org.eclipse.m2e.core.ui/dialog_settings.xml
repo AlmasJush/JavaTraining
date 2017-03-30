@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item value="480" key="width"/>
+		<item value="2280" key="x"/>
+		<item value="225" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="2431" key="x"/>
+		<item value="264" key="y"/>
+		<item value="530" key="height"/>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\JavaTraining\Projects\SeleniumProject\src"/>
+			<item value="C:\JavaTraining\Projects"/>
+			<item value="C:\JavaTraining\Projects\CoreJavaDemo"/>
+			<item value="C:\JavaTraining\Projects\springbasic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.almas.forselenium.mavenwithselenium"/>
+			<item value="com.mexk.almas.FromSpring1Video"/>
+			<item value="com.mexk.WSproducer"/>
+			<item value="com.mexk.mavenwebapp"/>
+			<item value="com.mexk.mavenquickstart"/>
+			<item value="com.mexk.redboxsprinmvc"/>
+			<item value="com.mexk.springmvc"/>
+		</list>
+		<list key="groupId">
+			<item value="com.almas.forselenium"/>
+			<item value="com.mexk.almas"/>
+			<item value="com.mexk"/>
+		</list>
+		<list key="artifactId">
+			<item value="mavenwithselenium"/>
+			<item value="FromSpring1Video"/>
+			<item value="WSproducer"/>
+			<item value="mavenwebapp"/>
+			<item value="mavenquickstart"/>
+			<item value="redboxsprinmvc"/>
+			<item value="springmvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog">
+		<item value="643" key="width"/>
+		<item value="2199" key="x"/>
+		<item value="225" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+</section>

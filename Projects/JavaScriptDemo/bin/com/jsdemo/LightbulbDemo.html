@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h2>Javascript can change image..</h2>
+
+	<img id="myImage" onclick="changeImage()" src="lightbulb_cartoon.jpg" width="100" height="100">	
+	
+	<p>Click the bulb to turn on/off the light</p>
+
+	<script>
+		function changImage(){
+			var image = document.getElementById('myImage');
+			if(image.src.match("bulbon")){
+				image.src = "lightbulb_cartoon.jpg";
+			} else{
+				image.src = "lightbulb_cartoon.jpg"
+			}
+		}	 
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MovieServiceImplTest.java&apos; to &apos;FromSpring1Video/src/test/java/com.mexk.almas.FromSpring1Video&apos;&#x0D;&#x0A;- Original project: &apos;FromSpring1Video&apos;&#x0D;&#x0A;- Destination element: &apos;FromSpring1Video/src/test/java/com.mexk.almas.FromSpring1Video&apos;&#x0D;&#x0A;- Original element: &apos;com.mexk.almas.FromSpring1Video.MovieServiceImplTest.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/test\/java&lt;com.mexk.almas.FromSpring1Video" element1="/src\/main\/java&lt;com.mexk.almas.FromSpring1Video{MovieServiceImplTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1424870941701" units="1" version="1.0"/>
+</session>

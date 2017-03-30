@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CoreJavaDemo/src/com/javascript/demo/JSdemo.js&apos; to &apos;JSdemo.html&apos;" description="Rename resource &apos;JSdemo.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/javascript/demo/JSdemo.js" name="JSdemo.html" stamp="1448915842617" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;springdynamvc&apos;" deleteContents="true" description="Delete resource &apos;springdynamvc&apos;" element1="/springdynamvc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1421346947989"/>
+</session>
